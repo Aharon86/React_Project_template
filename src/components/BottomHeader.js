@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import '../App_css/BottomHeader.css';
+import '../components_style/BottomHeader.css';
 
 class BottomHeader extends Component {
     render() {
